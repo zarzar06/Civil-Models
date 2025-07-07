@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/suno/kratos/jun-arms"
+	"$bumpmap" "models/suno/kratos/jun_arms_n"
+
+	"$halflambert" 1
+
+	"$phong" "1"
+	"$phongexponent" 5
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.01 0.5 1]"
+
+	"$detail"					"models/suno/kratos/metals"
+}

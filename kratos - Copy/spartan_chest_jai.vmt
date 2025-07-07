@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/suno/kratos/spartan_chest_jai_diffuse"
+    "$bumpmap"    "models/suno/kratos/spartan_chest_jai_zbump"
+
+	"$color2"	"[1 1 1]"
+	"$blendTintByBaseAlpha"	"1"
+
+	"$phongexponenttexture" "models/suno/kratos/spartan_chest_jai_exponent"
+	"$phongexponent" "7.55"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost" "0.24683568248620"
+	"$phongfresnelranges"	"[4 4 8]"
+
+	"$detail" "models/suno/kratos/metals"
+	"$detailscale"		"15"
+	"$detailblendmode""0"
+	"$detailblendfactor"		"0.7"
+
+}
+

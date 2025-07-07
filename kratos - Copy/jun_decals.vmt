@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/suno/kratos/jun_decals"
+	"$translucent" 1
+}

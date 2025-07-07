@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models/suno/kratos/unsc_decals_diffuse"	
+
+	$alphatest 1
+	$allowalphatocoverage 1
+
+	$halflambert 1
+	$nocull 1
+}

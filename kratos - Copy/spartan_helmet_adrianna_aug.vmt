@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/suno/kratos/spartan_helmet_adrianna_aug_diff"
+	"$bumpmap" "models/suno/kratos/spartan_helmet_adrianna_aug_normal"
+	"$blendtintbybasealpha" 1
+}

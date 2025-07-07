@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"models/suno/kratos/Bones_Evil"
+	"$bumpmap" 		"models/suno/kratos/Bones_Bump"
+	"$nocull"		"1"
+}

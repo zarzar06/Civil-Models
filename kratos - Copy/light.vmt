@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	$baseTexture "models/suno/kratos/Light"
+
+	$selfillum 1
+	$selfillummask "models/suno/kratos/light"
+
+	$halflambert 1
+	$nocull 1
+
+}
